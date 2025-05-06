@@ -169,8 +169,20 @@ footer {
 }
 /* end css*/
 
-.img.wizara {
-    width: 115px;
+h1.touf {
+    display: inline;
+    margin: 20px;
+    color: #23bfebf0;
+}
+
+span.wshouf {
+    position: relative;
+    left: 185px;
+    bottom: -18px;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: #EE9378;
 }
 
 /********** Template CSS **********/
